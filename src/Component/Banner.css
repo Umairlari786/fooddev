@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    width: 100vw;
+}
+.CarouselImg{
+    width: 100vw;
+   height: 95vh;
+   object-fit: cover;
+   filter: brightness(60%);
+}
+.ImgContainer{
+    position: relative;
+}
+.overText{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        /* top: 37vh;
+        left: 34.5%; */
+    position: absolute;
+    text-align: center;
+    color: white;
+    z-index: 99999;
+    text-shadow: 2px 2px 4px black;
+}
+.topMeals{
+    color: white;
+    font-size: 2rem;
+
+}
+.CatalogContainer{
+    height: 500px;
+    background-color: rgb(52, 51, 51);
+    padding: 50px;
+}
+.CarouselImg1{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px black ;
+}
+.ImgContainer2{
+    display: flex;
+    gap: 25px;
+    width: 250px;
+}
+.dish-name{
+    
+    margin-left:98px ;
+    color: #d0d0d0;
+    margin-top:12px;
+}

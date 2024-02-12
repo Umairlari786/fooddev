@@ -1,0 +1,46 @@
+export const topMeals=[
+    {
+        image:"https://images.unsplash.com/photo-1613564834361-9436948817d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBpenphfGVufDB8fDB8fHww",
+        title:"Pizza"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1610440042657-612c34d95e9f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D",
+        title:"Burger"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2FuZHdpY2h8ZW58MHx8MHx8fDA%3D",
+        title:"Sandwich"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1670300522639-ce378e5d23a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vbW9zfGVufDB8fDB8fHww",
+        title:"momos"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1803341423/photo/pav-bhaji-or-mumbai-style-bhaji-pav-indian-spicy-food.webp?b=1&s=170667a&w=0&k=20&c=lnBUfS43e_wpejLUuLloGdB-iGdM5k8R3sHwd7KSp8s=",
+        title:"pao bhaji"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmlyeWFuaXxlbnwwfHwwfHx8MA%3D%3D",
+        title:"Biryani"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJpcnlhbml8ZW58MHx8MHx8fDA%3D",
+        title:"Chicken"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuZWVyfGVufDB8fDB8fHww",
+        title:"Paneer"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZG9zYXxlbnwwfHwwfHx8MA%3D%3D",
+        title:"dosa"
+    },
+    {
+        image:"https://media.istockphoto.com/id/1194662949/photo/indian-dessert-or-sweet-dish-gulab-jamun-in-white-bowl-on-yellow-background.webp?b=1&s=170667a&w=0&k=20&c=OkND-U6vO7TeCdxLRaUiAIvX4fTdujrKKUodtJ2YSuA=",
+        title:"Gulab Jamun"
+    },
+    {
+        image:"https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
+        title:"Ice-Cream"
+    },
+]
