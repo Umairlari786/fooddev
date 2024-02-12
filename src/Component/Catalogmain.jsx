@@ -14,6 +14,38 @@ function Catalogmain() {
         autoplay:true,
         autoplaySpeed:2000,
         arrows:false,
+        responsive: [
+          {
+              breakpoint: 1024,
+              settings: {
+                  slidesToShow: 4,
+                  slidesToScroll: 4,
+              }
+          },
+          {
+            breakpoint: 750,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+            }
+        },
+          {
+              breakpoint: 600,
+              settings: {
+                  slidesToShow: 2,
+                  slidesToScroll: 2
+              }
+          },
+          {
+              breakpoint: 480,
+              settings: {
+                  slidesToShow: 1,
+                  slidesToScroll: 2
+              }
+          }
+  
+    ]
+  
       };
   return (
     <div className='CatalogContainer'>
@@ -21,7 +53,7 @@ function Catalogmain() {
             <p className="topMeals">Top</p>        
         </div>
 
-        <Slider className='SliderCss' {...settings}>
+        <Slider className='SliderCss space' {...settings}>
                 {topMeals.map((item)=>
                      <div className='ImgContainer2'>
                             <img className='CarouselImg1' src={item.image} alt='banner'/>
