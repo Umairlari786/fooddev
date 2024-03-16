@@ -9,7 +9,7 @@ const maincourse = () => {
         <div className='r-wrapper'>
         <div className='inner-width paddings r-container'>
         <div className='r-head flexColStart'>
-            <span className='orangeText'>Best Choices</span>
+            
             <span className='Text'>Popular MainCourse</span>
         </div>
         </div>

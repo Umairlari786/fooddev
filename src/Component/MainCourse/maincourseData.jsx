@@ -1,32 +1,32 @@
 export const maincourseData = [
     {
-        name : "Burger club",
-        image :"https://wallpapercave.com/fuwp/uwp4114427.jpeg",
-        away :"2.5KM",
-    },
-    {
-        name : "Burger King",
-        image :"https://wallpapercave.com/fuwp/uwp4262607.jpeg",
-        away :"3.0KM",
-    },
-    {
-        name : "Domino's",
-        image :"https://wallpapercave.com/fuwp/uwp4145505.jpeg",
-        away :"1.2KM",
-    },
-    {
-        name : "KFC",
-        image :"https://wallpapercave.com/wp/wp2375737.jpg",
+        name : "Zahra",
+        image :"https://wallpapercave.com/wp/wp3053381.jpg",
         away :"0.5KM",
     },
     {
-        name : "La Pino'z",
-        image :"https://wallpapercave.com/fuwp/uwp3842431.jpeg",
+        name : "Chicken ",
+        image :"https://wallpapercave.com/wp/wp8849946.jpg",
+        away :"1.2KM",
+    },
+    {
+        name : "BBQ",
+        image :"https://wallpapercave.com/wp/wp8327483.jpg",
+        away :"2.5KM",
+    },
+    {
+        name : "AL-Yamin",
+        image :"https://wallpapercave.com/wp/wp12539878.jpg",
         away :"2.0 KM",
     },
     {
-        name : "Rolls King",
-        image :"https://wallpapercave.com/wp/wp7601971.jpg",
-        away :"4.0KM",
+        name : "Javed Nihari",
+        image :"https://wallpapercave.com/wp/wp11253545.jpg",
+        away :"0.3KM",
+    },
+    {
+        name : "Bihari Pulao Goast",
+        image :"https://wallpapercave.com/wp/wp10473339.jpg",
+        away :"0.4KM",
     },
 ]
